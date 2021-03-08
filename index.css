@@ -1,0 +1,45 @@
+.slider-container{
+    width: 300px;
+}
+
+#polzunok1.ui-slider .ui-slider-range {
+    background: red;
+}
+
+#polzunok2.ui-slider .ui-slider-range {
+    background: green;
+}
+
+#polzunok3.ui-slider .ui-slider-range {
+    background: blue;
+}
+
+#polzunok1.ui-slider .ui-slider-handle.ui-state-active{
+    background: red;
+}
+
+#polzunok2.ui-slider .ui-slider-handle.ui-state-active{
+    background: green;
+}
+
+#polzunok3.ui-slider .ui-slider-handle.ui-state-active{
+    background: blue;
+    
+}
+
+#polzunok1.ui-slider .ui-slider-handle{
+    border: 1px solid red;
+}
+
+#polzunok2.ui-slider .ui-slider-handle{
+    border: 1px solid green;
+}
+
+#polzunok3.ui-slider .ui-slider-handle{
+    border: 1px solid blue;
+}
+
+.button-container__button_active{
+    background-color:blue;
+    color: white;
+}
